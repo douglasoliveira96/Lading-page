@@ -1,10 +1,11 @@
 
 .white-bg {    
     background: var(--white);
+    color: var(--primary-color);
 }
 
 .main-bg {
-    background-image: url('../img/confetti-doodles.svg');
+    background-image: url('../img/fundo.svg');
     background-size: cover;
     background-position: center center;
     color: var(--white);
